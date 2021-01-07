@@ -29,6 +29,20 @@
 [1115157_01	نظریه زبان ها و ماشین ها	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 
 ----------------
+## ارزیابی ها
+
+## بخش عمومی
+
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/blob/master/XX_CV_CheckList_AR_3991.pdf)
+
+- [خلاصه ارزیابی بخش عمومی](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/blob/master/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/blob/master/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
+----------------
+
 ### روز و ساعت ارائه دروس
 
 <table style="width:100%">
