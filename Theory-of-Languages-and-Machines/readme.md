@@ -12,6 +12,13 @@ Sipser. Introduction to the Theory of Computation. PWS Publishing company, 1997.
 Dr. Ali Movaghar
 
 -------------------
+## ارائه نوشتاری از منابع دیگر با نرم افزار لاتک
+
+
+- [LaTex PDF File](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/blob/master/LaTex%20Pages%2089-92/LaTex%20-%20Ali%20Akbar%20Khan%20Mohammadi%20-%20Pages%2089-92.pdf)
+
+-------------------
+
 ### گروه درسی
 
 <a name="G-L13"></a>
