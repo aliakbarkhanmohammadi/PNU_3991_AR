@@ -1,4 +1,9 @@
 <div dir="rtl"> 
+
+## ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
+
+- [ارائه شفاهی فصل اول از مرجع اصلی درس](https://aparat.com/v/Rwx5z)
+
 ## نمونه ارائه شده در دانشگاه های دیگر
 
 Sipser. Introduction to the Theory of Computation. PWS Publishing company, 1997.
